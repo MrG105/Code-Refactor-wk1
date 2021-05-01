@@ -18,3 +18,6 @@ Web page can be located at [Gitpages](https://mrg105.github.io/Code-Refactor-wk1
 
 ## Repo
 Repository can be located at [Github](https://github.com/MrG105/Code-Refactor-wk1 "Github")
+
+## Contact
+Refactoring and Repo updated by Gabriel Gutierrez.  [email](poo328@my.utsa.edu "email")
